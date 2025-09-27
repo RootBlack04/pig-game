@@ -50,7 +50,7 @@ Live Demo: [👉 Click here](https://rootblack.site/pig-game/)
 
 ## 📚 Credits
 - Project idea and tutorial from [Jonas Schmedtmann](https://codingheroes.io/) Udemy course.  
-- Implemented and adapted by **[RootBlack]([https://rootblack.site/)** as part of learning journey.
+- Implemented and adapted by **[RootBlack](https://rootblack.site/)** as part of learning journey.
 
 ---
 
